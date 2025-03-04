@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/maxim/Desktop/Simple_AI/Simple_AI/build",
-  "command": "/usr/bin/g++ -g -std=gnu++23 -o CMakeFiles/AI.dir/TP2.cpp.o -c /home/maxim/Desktop/Simple_AI/Simple_AI/TP2.cpp",
-  "file": "/home/maxim/Desktop/Simple_AI/Simple_AI/TP2.cpp"
-}
-]

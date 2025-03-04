@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\thibo\Desktop\Prototype\IA\Simple_AI\build\CMakeFiles\3f020662d818a3df6c70ea4e8a8f426c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{35B582DD-1799-3FA5-A5E6-2F37CD056B47}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
