@@ -62,28 +62,28 @@ set_target_properties(SDL3::SDL3-shared PROPERTIES
 set_property(TARGET SDL3::SDL3-shared APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(SDL3::SDL3-shared PROPERTIES
   IMPORTED_IMPLIB_DEBUG "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/Debug/SDL3.lib"
-  IMPORTED_LOCATION_DEBUG "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/Debug/SDL3.dll"
+  IMPORTED_LOCATION_DEBUG "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/Debug/SDL3.dll"
   )
 
 # Import target "SDL3::SDL3-shared" for configuration "Release"
 set_property(TARGET SDL3::SDL3-shared APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(SDL3::SDL3-shared PROPERTIES
   IMPORTED_IMPLIB_RELEASE "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/Release/SDL3.lib"
-  IMPORTED_LOCATION_RELEASE "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/Release/SDL3.dll"
+  IMPORTED_LOCATION_RELEASE "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/Release/SDL3.dll"
   )
 
 # Import target "SDL3::SDL3-shared" for configuration "MinSizeRel"
 set_property(TARGET SDL3::SDL3-shared APPEND PROPERTY IMPORTED_CONFIGURATIONS MINSIZEREL)
 set_target_properties(SDL3::SDL3-shared PROPERTIES
   IMPORTED_IMPLIB_MINSIZEREL "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/MinSizeRel/SDL3.lib"
-  IMPORTED_LOCATION_MINSIZEREL "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/MinSizeRel/SDL3.dll"
+  IMPORTED_LOCATION_MINSIZEREL "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/MinSizeRel/SDL3.dll"
   )
 
 # Import target "SDL3::SDL3-shared" for configuration "RelWithDebInfo"
 set_property(TARGET SDL3::SDL3-shared APPEND PROPERTY IMPORTED_CONFIGURATIONS RELWITHDEBINFO)
 set_target_properties(SDL3::SDL3-shared PROPERTIES
   IMPORTED_IMPLIB_RELWITHDEBINFO "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/RelWithDebInfo/SDL3.lib"
-  IMPORTED_LOCATION_RELWITHDEBINFO "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/RelWithDebInfo/SDL3.dll"
+  IMPORTED_LOCATION_RELWITHDEBINFO "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/RelWithDebInfo/SDL3.dll"
   )
 
 # Make sure the targets which have been exported in some other

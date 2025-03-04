@@ -1,7 +1,7 @@
 C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/src/CMakeFiles/AI.dir
-C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/CMakeFiles/SDL3-shared.dir
-C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/CMakeFiles/SDL3_test.dir
-C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/CMakeFiles/SDL_uclibc.dir
-C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/CMakeFiles/ALL_BUILD.dir
+C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/src/CMakeFiles/AI2.dir
+C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/SDL/CMakeFiles/SDL3-shared.dir
+C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/SDL/CMakeFiles/SDL3_test.dir
+C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/SDL/CMakeFiles/SDL_uclibc.dir
+C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/SDL/CMakeFiles/ALL_BUILD.dir

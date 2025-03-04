@@ -174,19 +174,19 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\thibo\Desktop\Prototype\IA\Simple_AI\build\src\AI.vcxproj">
-      <Project>{D452A27E-021A-3802-9462-9A6288F70B3F}</Project>
-      <Name>AI</Name>
+    <ProjectReference Include="C:\Users\thibo\Desktop\Prototype\IA\Simple_AI\build\src\AI2.vcxproj">
+      <Project>{A194BCB1-AEC7-375F-9365-CCE79A35881A}</Project>
+      <Name>AI2</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\thibo\Desktop\Prototype\IA\Simple_AI\build\vendor\SDL3-shared.vcxproj">
+    <ProjectReference Include="C:\Users\thibo\Desktop\Prototype\IA\Simple_AI\build\vendor\SDL\SDL3-shared.vcxproj">
       <Project>{675A6855-2A10-3BEE-8127-38FE3DAA339C}</Project>
       <Name>SDL3-shared</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\thibo\Desktop\Prototype\IA\Simple_AI\build\vendor\SDL3_test.vcxproj">
+    <ProjectReference Include="C:\Users\thibo\Desktop\Prototype\IA\Simple_AI\build\vendor\SDL\SDL3_test.vcxproj">
       <Project>{FE75D469-1FB0-3194-8AC4-827D7894438A}</Project>
       <Name>SDL3_test</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\thibo\Desktop\Prototype\IA\Simple_AI\build\vendor\SDL_uclibc.vcxproj">
+    <ProjectReference Include="C:\Users\thibo\Desktop\Prototype\IA\Simple_AI\build\vendor\SDL\SDL_uclibc.vcxproj">
       <Project>{233AEDFA-EFDA-30AB-83C7-466EC622180F}</Project>
       <Name>SDL_uclibc</Name>
     </ProjectReference>

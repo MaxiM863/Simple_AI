@@ -24,7 +24,7 @@ events:
       The output was:
       0
       Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-      La g├®n├®ration a d├®marr├® 3/3/2025 5:45:05 PM.
+      La g├®n├®ration a d├®marr├® 3/4/2025 6:51:01 AM.
       
       Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\3.31.3\\CompilerIdC\\CompilerIdC.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
       PrepareForBuild:
@@ -53,7 +53,7 @@ events:
           0 Avertissement(s)
           0 Erreur(s)
       
-      Temps ├®coul├® 00:00:00.92
+      Temps ├®coul├® 00:00:00.80
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -79,7 +79,7 @@ events:
       The output was:
       0
       Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-      La g├®n├®ration a d├®marr├® 3/3/2025 5:45:06 PM.
+      La g├®n├®ration a d├®marr├® 3/4/2025 6:51:02 AM.
       
       Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\3.31.3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
       PrepareForBuild:
@@ -108,7 +108,7 @@ events:
           0 Avertissement(s)
           0 Erreur(s)
       
-      Temps ├®coul├® 00:00:00.59
+      Temps ├®coul├® 00:00:00.53
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -127,8 +127,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zsz1ol"
-      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zsz1ol"
+      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zb7ilx"
+      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zb7ilx"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -137,40 +137,40 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zsz1ol'
+        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zb7ilx'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_4f5ab.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5877f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 5:45:08 PM.
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:03 AM.
         
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zsz1ol\\cmTC_4f5ab.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zb7ilx\\cmTC_5877f.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
         PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_4f5ab.dir\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_5877f.dir\\Debug\\".
           La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
-          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zsz1ol\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_4f5ab.dir\\Debug\\cmTC_4f5ab.tlog\\".
+          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zb7ilx\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_5877f.dir\\Debug\\cmTC_5877f.tlog\\".
         InitializeBuildStatus:
-          Cr├®ation de "cmTC_4f5ab.dir\\Debug\\cmTC_4f5ab.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_4f5ab.dir\\Debug\\cmTC_4f5ab.tlog\\unsuccessfulbuild".
+          Cr├®ation de "cmTC_5877f.dir\\Debug\\cmTC_5877f.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_5877f.dir\\Debug\\cmTC_5877f.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4f5ab.dir\\Debug\\\\" /Fd"cmTC_4f5ab.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5877f.dir\\Debug\\\\" /Fd"cmTC_5877f.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
           Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
           Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4f5ab.dir\\Debug\\\\" /Fd"cmTC_4f5ab.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5877f.dir\\Debug\\\\" /Fd"cmTC_5877f.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zsz1ol\\Debug\\cmTC_4f5ab.exe" /INCREMENTAL /ILK:"cmTC_4f5ab.dir\\Debug\\cmTC_4f5ab.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zsz1ol/Debug/cmTC_4f5ab.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zsz1ol/Debug/cmTC_4f5ab.lib" /MACHINE:X64  /machine:x64 cmTC_4f5ab.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_4f5ab.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zsz1ol\\Debug\\cmTC_4f5ab.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zb7ilx\\Debug\\cmTC_5877f.exe" /INCREMENTAL /ILK:"cmTC_5877f.dir\\Debug\\cmTC_5877f.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zb7ilx/Debug/cmTC_5877f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zb7ilx/Debug/cmTC_5877f.lib" /MACHINE:X64  /machine:x64 cmTC_5877f.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_5877f.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zb7ilx\\Debug\\cmTC_5877f.exe
         FinalizeBuildStatus:
-          Suppression du fichier "cmTC_4f5ab.dir\\Debug\\cmTC_4f5ab.tlog\\unsuccessfulbuild".
-          Mise ├á jour de l'horodatage "cmTC_4f5ab.dir\\Debug\\cmTC_4f5ab.tlog\\cmTC_4f5ab.lastbuildstate".
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zsz1ol\\cmTC_4f5ab.vcxproj" termin├®e (cibles par d├®faut).
+          Suppression du fichier "cmTC_5877f.dir\\Debug\\cmTC_5877f.tlog\\unsuccessfulbuild".
+          Mise ├á jour de l'horodatage "cmTC_5877f.dir\\Debug\\cmTC_5877f.tlog\\cmTC_5877f.lastbuildstate".
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zb7ilx\\cmTC_5877f.vcxproj" termin├®e (cibles par d├®faut).
         
         La g├®n├®ration a r├®ussi.
             0 Avertissement(s)
             0 Erreur(s)
         
-        Temps ├®coul├® 00:00:00.54
+        Temps ├®coul├® 00:00:00.52
         
       exitCode: 0
   -
@@ -210,8 +210,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-u4zkiz"
-      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-u4zkiz"
+      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-8l9461"
+      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-8l9461"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -221,40 +221,40 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-u4zkiz'
+        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-8l9461'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_d99c7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_57ec7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 5:45:09 PM.
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:04 AM.
         
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-u4zkiz\\cmTC_d99c7.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8l9461\\cmTC_57ec7.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
         PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_d99c7.dir\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_57ec7.dir\\Debug\\".
           La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
-          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-u4zkiz\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_d99c7.dir\\Debug\\cmTC_d99c7.tlog\\".
+          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8l9461\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_57ec7.dir\\Debug\\cmTC_57ec7.tlog\\".
         InitializeBuildStatus:
-          Cr├®ation de "cmTC_d99c7.dir\\Debug\\cmTC_d99c7.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_d99c7.dir\\Debug\\cmTC_d99c7.tlog\\unsuccessfulbuild".
+          Cr├®ation de "cmTC_57ec7.dir\\Debug\\cmTC_57ec7.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_57ec7.dir\\Debug\\cmTC_57ec7.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_d99c7.dir\\Debug\\\\" /Fd"cmTC_d99c7.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_57ec7.dir\\Debug\\\\" /Fd"cmTC_57ec7.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
           Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
           Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_d99c7.dir\\Debug\\\\" /Fd"cmTC_d99c7.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_57ec7.dir\\Debug\\\\" /Fd"cmTC_57ec7.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-u4zkiz\\Debug\\cmTC_d99c7.exe" /INCREMENTAL /ILK:"cmTC_d99c7.dir\\Debug\\cmTC_d99c7.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-u4zkiz/Debug/cmTC_d99c7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-u4zkiz/Debug/cmTC_d99c7.lib" /MACHINE:X64  /machine:x64 cmTC_d99c7.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_d99c7.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-u4zkiz\\Debug\\cmTC_d99c7.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8l9461\\Debug\\cmTC_57ec7.exe" /INCREMENTAL /ILK:"cmTC_57ec7.dir\\Debug\\cmTC_57ec7.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-8l9461/Debug/cmTC_57ec7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-8l9461/Debug/cmTC_57ec7.lib" /MACHINE:X64  /machine:x64 cmTC_57ec7.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_57ec7.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8l9461\\Debug\\cmTC_57ec7.exe
         FinalizeBuildStatus:
-          Suppression du fichier "cmTC_d99c7.dir\\Debug\\cmTC_d99c7.tlog\\unsuccessfulbuild".
-          Mise ├á jour de l'horodatage "cmTC_d99c7.dir\\Debug\\cmTC_d99c7.tlog\\cmTC_d99c7.lastbuildstate".
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-u4zkiz\\cmTC_d99c7.vcxproj" termin├®e (cibles par d├®faut).
+          Suppression du fichier "cmTC_57ec7.dir\\Debug\\cmTC_57ec7.tlog\\unsuccessfulbuild".
+          Mise ├á jour de l'horodatage "cmTC_57ec7.dir\\Debug\\cmTC_57ec7.tlog\\cmTC_57ec7.lastbuildstate".
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8l9461\\cmTC_57ec7.vcxproj" termin├®e (cibles par d├®faut).
         
         La g├®n├®ration a r├®ussi.
             0 Avertissement(s)
             0 Erreur(s)
         
-        Temps ├®coul├® 00:00:00.58
+        Temps ├®coul├® 00:00:00.54
         
       exitCode: 0
   -
@@ -285,10 +285,6 @@ events:
       Running the CXX compiler's linker: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.43.34808/bin/HostX64/x64/link.exe" "-v"
       Microsoft (R) Incremental Linker Version 14.43.34808.0
       Copyright (C) Microsoft Corporation.  All rights reserved.
-...
-
----
-events:
   -
     kind: "try_compile-v1"
     backtrace:
@@ -308,38 +304,38 @@ events:
       stdout: |
         Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/CMakeFiles/CMakeTmp/SDL_detect_arch/CMakeFiles/CMakeTmp'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_aa1d3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_9fa7e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 8:12:17 PM.
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:06 AM.
         
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\vendor\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\cmTC_aa1d3.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\vendor\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\cmTC_9fa7e.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
         PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_aa1d3.dir\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_9fa7e.dir\\Debug\\".
           La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
           Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\vendor\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_aa1d3.dir\\Debug\\cmTC_aa1d3.tlog\\".
+          Cr├®ation du r├®pertoire "cmTC_9fa7e.dir\\Debug\\cmTC_9fa7e.tlog\\".
         InitializeBuildStatus:
-          Cr├®ation de "cmTC_aa1d3.dir\\Debug\\cmTC_aa1d3.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_aa1d3.dir\\Debug\\cmTC_aa1d3.tlog\\unsuccessfulbuild".
+          Cr├®ation de "cmTC_9fa7e.dir\\Debug\\cmTC_9fa7e.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_9fa7e.dir\\Debug\\cmTC_9fa7e.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_aa1d3.dir\\Debug\\\\" /Fd"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\vendor\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_aa1d3.pdb" /external:W3 /Gd /TC /errorReport:queue C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\vendor\\CMakeFiles\\CMakeTmp\\SDL_detect_arch.c
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9fa7e.dir\\Debug\\\\" /Fd"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\vendor\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_9fa7e.pdb" /external:W3 /Gd /TC /errorReport:queue C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\vendor\\CMakeFiles\\CMakeTmp\\SDL_detect_arch.c
           Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
           Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_aa1d3.dir\\Debug\\\\" /Fd"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\vendor\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_aa1d3.pdb" /external:W3 /Gd /TC /errorReport:queue C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\vendor\\CMakeFiles\\CMakeTmp\\SDL_detect_arch.c
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9fa7e.dir\\Debug\\\\" /Fd"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\vendor\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_9fa7e.pdb" /external:W3 /Gd /TC /errorReport:queue C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\vendor\\CMakeFiles\\CMakeTmp\\SDL_detect_arch.c
           SDL_detect_arch.c
         Lib:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\Lib.exe /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\vendor\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_aa1d3.lib" /NOLOGO /MACHINE:X64  /machine:x64 cmTC_aa1d3.dir\\Debug\\SDL_detect_arch.obj
-          cmTC_aa1d3.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\vendor\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_aa1d3.lib
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\Lib.exe /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\vendor\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_9fa7e.lib" /NOLOGO /MACHINE:X64  /machine:x64 cmTC_9fa7e.dir\\Debug\\SDL_detect_arch.obj
+          cmTC_9fa7e.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\vendor\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_9fa7e.lib
         FinalizeBuildStatus:
-          Suppression du fichier "cmTC_aa1d3.dir\\Debug\\cmTC_aa1d3.tlog\\unsuccessfulbuild".
-          Mise ├á jour de l'horodatage "cmTC_aa1d3.dir\\Debug\\cmTC_aa1d3.tlog\\cmTC_aa1d3.lastbuildstate".
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\vendor\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\cmTC_aa1d3.vcxproj" termin├®e (cibles par d├®faut).
+          Suppression du fichier "cmTC_9fa7e.dir\\Debug\\cmTC_9fa7e.tlog\\unsuccessfulbuild".
+          Mise ├á jour de l'horodatage "cmTC_9fa7e.dir\\Debug\\cmTC_9fa7e.tlog\\cmTC_9fa7e.lastbuildstate".
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\vendor\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\cmTC_9fa7e.vcxproj" termin├®e (cibles par d├®faut).
         
         La g├®n├®ration a r├®ussi.
             0 Avertissement(s)
             0 Erreur(s)
         
-        Temps ├®coul├® 00:00:00.88
+        Temps ├®coul├® 00:00:00.43
         
       exitCode: 0
   -
@@ -351,8 +347,8 @@ events:
     checks:
       - "Performing Test COMPILER_SUPPORTS_MMX"
     directories:
-      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-pnbvhb"
-      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-pnbvhb"
+      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zw5c0g"
+      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zw5c0g"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od "
@@ -362,46 +358,46 @@ events:
       variable: "COMPILER_SUPPORTS_MMX"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-pnbvhb'
+        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zw5c0g'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_85655.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_64f1b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 8:12:18 PM.
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:06 AM.
         
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pnbvhb\\cmTC_85655.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zw5c0g\\cmTC_64f1b.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
         PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_85655.dir\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_64f1b.dir\\Debug\\".
           La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
-          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pnbvhb\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_85655.dir\\Debug\\cmTC_85655.tlog\\".
+          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zw5c0g\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_64f1b.dir\\Debug\\cmTC_64f1b.tlog\\".
         InitializeBuildStatus:
-          Cr├®ation de "cmTC_85655.dir\\Debug\\cmTC_85655.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_85655.dir\\Debug\\cmTC_85655.tlog\\unsuccessfulbuild".
+          Cr├®ation de "cmTC_64f1b.dir\\Debug\\cmTC_64f1b.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_64f1b.dir\\Debug\\cmTC_64f1b.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_MMX /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_85655.dir\\Debug\\\\" /Fd"cmTC_85655.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pnbvhb\\src.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_MMX /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_64f1b.dir\\Debug\\\\" /Fd"cmTC_64f1b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zw5c0g\\src.c"
           Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
           Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_MMX /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_85655.dir\\Debug\\\\" /Fd"cmTC_85655.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pnbvhb\\src.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_MMX /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_64f1b.dir\\Debug\\\\" /Fd"cmTC_64f1b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zw5c0g\\src.c"
           src.c
-        C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pnbvhb\\src.c(5,27): warning C4013: '_mm_add_pi32' non d├®fini(e)┬á; extern retournant int pris par d├®faut [C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pnbvhb\\cmTC_85655.vcxproj]
-        C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pnbvhb\\src.c(5,25): error C2440: '='┬á: impossible de convertir de 'int' en '__m64' [C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pnbvhb\\cmTC_85655.vcxproj]
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pnbvhb\\cmTC_85655.vcxproj" termin├®e (cibles par d├®faut) -- ├ëCHEC.
+        C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zw5c0g\\src.c(5,27): warning C4013: '_mm_add_pi32' non d├®fini(e)┬á; extern retournant int pris par d├®faut [C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zw5c0g\\cmTC_64f1b.vcxproj]
+        C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zw5c0g\\src.c(5,25): error C2440: '='┬á: impossible de convertir de 'int' en '__m64' [C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zw5c0g\\cmTC_64f1b.vcxproj]
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zw5c0g\\cmTC_64f1b.vcxproj" termin├®e (cibles par d├®faut) -- ├ëCHEC.
         
         ├ëCHEC de la build.
         
-        "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pnbvhb\\cmTC_85655.vcxproj" (cible par d├®faut) (1) ->
+        "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zw5c0g\\cmTC_64f1b.vcxproj" (cible par d├®faut) (1) ->
         (ClCompile cible) -> 
-          C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pnbvhb\\src.c(5,27): warning C4013: '_mm_add_pi32' non d├®fini(e)┬á; extern retournant int pris par d├®faut [C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pnbvhb\\cmTC_85655.vcxproj]
+          C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zw5c0g\\src.c(5,27): warning C4013: '_mm_add_pi32' non d├®fini(e)┬á; extern retournant int pris par d├®faut [C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zw5c0g\\cmTC_64f1b.vcxproj]
         
         
-        "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pnbvhb\\cmTC_85655.vcxproj" (cible par d├®faut) (1) ->
+        "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zw5c0g\\cmTC_64f1b.vcxproj" (cible par d├®faut) (1) ->
         (ClCompile cible) -> 
-          C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pnbvhb\\src.c(5,25): error C2440: '='┬á: impossible de convertir de 'int' en '__m64' [C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pnbvhb\\cmTC_85655.vcxproj]
+          C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zw5c0g\\src.c(5,25): error C2440: '='┬á: impossible de convertir de 'int' en '__m64' [C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zw5c0g\\cmTC_64f1b.vcxproj]
         
             1 Avertissement(s)
             1 Erreur(s)
         
-        Temps ├®coul├® 00:00:00.43
+        Temps ├®coul├® 00:00:00.36
         
       exitCode: 1
   -
@@ -413,8 +409,8 @@ events:
     checks:
       - "Performing Test COMPILER_SUPPORTS_SSE"
     directories:
-      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-g1kz5j"
-      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-g1kz5j"
+      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-0ic85u"
+      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-0ic85u"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od "
@@ -424,40 +420,40 @@ events:
       variable: "COMPILER_SUPPORTS_SSE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-g1kz5j'
+        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-0ic85u'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_b11b4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_ed193.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 8:12:19 PM.
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:07 AM.
         
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-g1kz5j\\cmTC_b11b4.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0ic85u\\cmTC_ed193.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
         PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_b11b4.dir\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_ed193.dir\\Debug\\".
           La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
-          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-g1kz5j\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_b11b4.dir\\Debug\\cmTC_b11b4.tlog\\".
+          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0ic85u\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_ed193.dir\\Debug\\cmTC_ed193.tlog\\".
         InitializeBuildStatus:
-          Cr├®ation de "cmTC_b11b4.dir\\Debug\\cmTC_b11b4.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_b11b4.dir\\Debug\\cmTC_b11b4.tlog\\unsuccessfulbuild".
+          Cr├®ation de "cmTC_ed193.dir\\Debug\\cmTC_ed193.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_ed193.dir\\Debug\\cmTC_ed193.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b11b4.dir\\Debug\\\\" /Fd"cmTC_b11b4.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-g1kz5j\\src.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ed193.dir\\Debug\\\\" /Fd"cmTC_ed193.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0ic85u\\src.c"
           Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
           Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b11b4.dir\\Debug\\\\" /Fd"cmTC_b11b4.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-g1kz5j\\src.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ed193.dir\\Debug\\\\" /Fd"cmTC_ed193.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0ic85u\\src.c"
           src.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-g1kz5j\\Debug\\cmTC_b11b4.exe" /INCREMENTAL /ILK:"cmTC_b11b4.dir\\Debug\\cmTC_b11b4.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-g1kz5j/Debug/cmTC_b11b4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-g1kz5j/Debug/cmTC_b11b4.lib" /MACHINE:X64  /machine:x64 cmTC_b11b4.dir\\Debug\\src.obj
-          cmTC_b11b4.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-g1kz5j\\Debug\\cmTC_b11b4.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0ic85u\\Debug\\cmTC_ed193.exe" /INCREMENTAL /ILK:"cmTC_ed193.dir\\Debug\\cmTC_ed193.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-0ic85u/Debug/cmTC_ed193.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-0ic85u/Debug/cmTC_ed193.lib" /MACHINE:X64  /machine:x64 cmTC_ed193.dir\\Debug\\src.obj
+          cmTC_ed193.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0ic85u\\Debug\\cmTC_ed193.exe
         FinalizeBuildStatus:
-          Suppression du fichier "cmTC_b11b4.dir\\Debug\\cmTC_b11b4.tlog\\unsuccessfulbuild".
-          Mise ├á jour de l'horodatage "cmTC_b11b4.dir\\Debug\\cmTC_b11b4.tlog\\cmTC_b11b4.lastbuildstate".
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-g1kz5j\\cmTC_b11b4.vcxproj" termin├®e (cibles par d├®faut).
+          Suppression du fichier "cmTC_ed193.dir\\Debug\\cmTC_ed193.tlog\\unsuccessfulbuild".
+          Mise ├á jour de l'horodatage "cmTC_ed193.dir\\Debug\\cmTC_ed193.tlog\\cmTC_ed193.lastbuildstate".
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0ic85u\\cmTC_ed193.vcxproj" termin├®e (cibles par d├®faut).
         
         La g├®n├®ration a r├®ussi.
             0 Avertissement(s)
             0 Erreur(s)
         
-        Temps ├®coul├® 00:00:00.60
+        Temps ├®coul├® 00:00:00.55
         
       exitCode: 0
   -
@@ -469,8 +465,8 @@ events:
     checks:
       - "Performing Test COMPILER_SUPPORTS_SSE2"
     directories:
-      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-tmgrji"
-      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-tmgrji"
+      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-ccvzji"
+      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-ccvzji"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od "
@@ -480,40 +476,40 @@ events:
       variable: "COMPILER_SUPPORTS_SSE2"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-tmgrji'
+        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-ccvzji'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_2f9e0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_ace1d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 8:12:20 PM.
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:08 AM.
         
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tmgrji\\cmTC_2f9e0.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ccvzji\\cmTC_ace1d.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
         PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_2f9e0.dir\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_ace1d.dir\\Debug\\".
           La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
-          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tmgrji\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_2f9e0.dir\\Debug\\cmTC_2f9e0.tlog\\".
+          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ccvzji\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_ace1d.dir\\Debug\\cmTC_ace1d.tlog\\".
         InitializeBuildStatus:
-          Cr├®ation de "cmTC_2f9e0.dir\\Debug\\cmTC_2f9e0.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_2f9e0.dir\\Debug\\cmTC_2f9e0.tlog\\unsuccessfulbuild".
+          Cr├®ation de "cmTC_ace1d.dir\\Debug\\cmTC_ace1d.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_ace1d.dir\\Debug\\cmTC_ace1d.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE2 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2f9e0.dir\\Debug\\\\" /Fd"cmTC_2f9e0.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tmgrji\\src.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE2 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ace1d.dir\\Debug\\\\" /Fd"cmTC_ace1d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ccvzji\\src.c"
           Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
           Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE2 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2f9e0.dir\\Debug\\\\" /Fd"cmTC_2f9e0.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tmgrji\\src.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE2 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ace1d.dir\\Debug\\\\" /Fd"cmTC_ace1d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ccvzji\\src.c"
           src.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tmgrji\\Debug\\cmTC_2f9e0.exe" /INCREMENTAL /ILK:"cmTC_2f9e0.dir\\Debug\\cmTC_2f9e0.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-tmgrji/Debug/cmTC_2f9e0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-tmgrji/Debug/cmTC_2f9e0.lib" /MACHINE:X64  /machine:x64 cmTC_2f9e0.dir\\Debug\\src.obj
-          cmTC_2f9e0.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tmgrji\\Debug\\cmTC_2f9e0.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ccvzji\\Debug\\cmTC_ace1d.exe" /INCREMENTAL /ILK:"cmTC_ace1d.dir\\Debug\\cmTC_ace1d.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-ccvzji/Debug/cmTC_ace1d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-ccvzji/Debug/cmTC_ace1d.lib" /MACHINE:X64  /machine:x64 cmTC_ace1d.dir\\Debug\\src.obj
+          cmTC_ace1d.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ccvzji\\Debug\\cmTC_ace1d.exe
         FinalizeBuildStatus:
-          Suppression du fichier "cmTC_2f9e0.dir\\Debug\\cmTC_2f9e0.tlog\\unsuccessfulbuild".
-          Mise ├á jour de l'horodatage "cmTC_2f9e0.dir\\Debug\\cmTC_2f9e0.tlog\\cmTC_2f9e0.lastbuildstate".
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tmgrji\\cmTC_2f9e0.vcxproj" termin├®e (cibles par d├®faut).
+          Suppression du fichier "cmTC_ace1d.dir\\Debug\\cmTC_ace1d.tlog\\unsuccessfulbuild".
+          Mise ├á jour de l'horodatage "cmTC_ace1d.dir\\Debug\\cmTC_ace1d.tlog\\cmTC_ace1d.lastbuildstate".
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ccvzji\\cmTC_ace1d.vcxproj" termin├®e (cibles par d├®faut).
         
         La g├®n├®ration a r├®ussi.
             0 Avertissement(s)
             0 Erreur(s)
         
-        Temps ├®coul├® 00:00:00.61
+        Temps ├®coul├® 00:00:00.52
         
       exitCode: 0
   -
@@ -525,8 +521,8 @@ events:
     checks:
       - "Performing Test COMPILER_SUPPORTS_SSE3"
     directories:
-      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zzp38k"
-      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zzp38k"
+      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-d82ru0"
+      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-d82ru0"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od "
@@ -536,40 +532,40 @@ events:
       variable: "COMPILER_SUPPORTS_SSE3"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zzp38k'
+        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-d82ru0'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_a54d3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_9e0e1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 8:12:21 PM.
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:08 AM.
         
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zzp38k\\cmTC_a54d3.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-d82ru0\\cmTC_9e0e1.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
         PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_a54d3.dir\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_9e0e1.dir\\Debug\\".
           La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
-          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zzp38k\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_a54d3.dir\\Debug\\cmTC_a54d3.tlog\\".
+          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-d82ru0\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_9e0e1.dir\\Debug\\cmTC_9e0e1.tlog\\".
         InitializeBuildStatus:
-          Cr├®ation de "cmTC_a54d3.dir\\Debug\\cmTC_a54d3.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_a54d3.dir\\Debug\\cmTC_a54d3.tlog\\unsuccessfulbuild".
+          Cr├®ation de "cmTC_9e0e1.dir\\Debug\\cmTC_9e0e1.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_9e0e1.dir\\Debug\\cmTC_9e0e1.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE3 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a54d3.dir\\Debug\\\\" /Fd"cmTC_a54d3.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zzp38k\\src.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE3 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9e0e1.dir\\Debug\\\\" /Fd"cmTC_9e0e1.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-d82ru0\\src.c"
           Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
           Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE3 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a54d3.dir\\Debug\\\\" /Fd"cmTC_a54d3.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zzp38k\\src.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE3 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9e0e1.dir\\Debug\\\\" /Fd"cmTC_9e0e1.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-d82ru0\\src.c"
           src.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zzp38k\\Debug\\cmTC_a54d3.exe" /INCREMENTAL /ILK:"cmTC_a54d3.dir\\Debug\\cmTC_a54d3.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zzp38k/Debug/cmTC_a54d3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zzp38k/Debug/cmTC_a54d3.lib" /MACHINE:X64  /machine:x64 cmTC_a54d3.dir\\Debug\\src.obj
-          cmTC_a54d3.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zzp38k\\Debug\\cmTC_a54d3.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-d82ru0\\Debug\\cmTC_9e0e1.exe" /INCREMENTAL /ILK:"cmTC_9e0e1.dir\\Debug\\cmTC_9e0e1.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-d82ru0/Debug/cmTC_9e0e1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-d82ru0/Debug/cmTC_9e0e1.lib" /MACHINE:X64  /machine:x64 cmTC_9e0e1.dir\\Debug\\src.obj
+          cmTC_9e0e1.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-d82ru0\\Debug\\cmTC_9e0e1.exe
         FinalizeBuildStatus:
-          Suppression du fichier "cmTC_a54d3.dir\\Debug\\cmTC_a54d3.tlog\\unsuccessfulbuild".
-          Mise ├á jour de l'horodatage "cmTC_a54d3.dir\\Debug\\cmTC_a54d3.tlog\\cmTC_a54d3.lastbuildstate".
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zzp38k\\cmTC_a54d3.vcxproj" termin├®e (cibles par d├®faut).
+          Suppression du fichier "cmTC_9e0e1.dir\\Debug\\cmTC_9e0e1.tlog\\unsuccessfulbuild".
+          Mise ├á jour de l'horodatage "cmTC_9e0e1.dir\\Debug\\cmTC_9e0e1.tlog\\cmTC_9e0e1.lastbuildstate".
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-d82ru0\\cmTC_9e0e1.vcxproj" termin├®e (cibles par d├®faut).
         
         La g├®n├®ration a r├®ussi.
             0 Avertissement(s)
             0 Erreur(s)
         
-        Temps ├®coul├® 00:00:00.61
+        Temps ├®coul├® 00:00:00.55
         
       exitCode: 0
   -
@@ -581,8 +577,8 @@ events:
     checks:
       - "Performing Test COMPILER_SUPPORTS_SSE4_1"
     directories:
-      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-ke3n8u"
-      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-ke3n8u"
+      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-inaxq9"
+      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-inaxq9"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od "
@@ -592,40 +588,40 @@ events:
       variable: "COMPILER_SUPPORTS_SSE4_1"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-ke3n8u'
+        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-inaxq9'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_e25da.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_a2ba7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 8:12:22 PM.
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:09 AM.
         
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ke3n8u\\cmTC_e25da.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-inaxq9\\cmTC_a2ba7.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
         PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_e25da.dir\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_a2ba7.dir\\Debug\\".
           La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
-          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ke3n8u\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_e25da.dir\\Debug\\cmTC_e25da.tlog\\".
+          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-inaxq9\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_a2ba7.dir\\Debug\\cmTC_a2ba7.tlog\\".
         InitializeBuildStatus:
-          Cr├®ation de "cmTC_e25da.dir\\Debug\\cmTC_e25da.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_e25da.dir\\Debug\\cmTC_e25da.tlog\\unsuccessfulbuild".
+          Cr├®ation de "cmTC_a2ba7.dir\\Debug\\cmTC_a2ba7.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_a2ba7.dir\\Debug\\cmTC_a2ba7.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE4_1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e25da.dir\\Debug\\\\" /Fd"cmTC_e25da.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ke3n8u\\src.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE4_1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a2ba7.dir\\Debug\\\\" /Fd"cmTC_a2ba7.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-inaxq9\\src.c"
           Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
           Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE4_1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e25da.dir\\Debug\\\\" /Fd"cmTC_e25da.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ke3n8u\\src.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE4_1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a2ba7.dir\\Debug\\\\" /Fd"cmTC_a2ba7.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-inaxq9\\src.c"
           src.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ke3n8u\\Debug\\cmTC_e25da.exe" /INCREMENTAL /ILK:"cmTC_e25da.dir\\Debug\\cmTC_e25da.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-ke3n8u/Debug/cmTC_e25da.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-ke3n8u/Debug/cmTC_e25da.lib" /MACHINE:X64  /machine:x64 cmTC_e25da.dir\\Debug\\src.obj
-          cmTC_e25da.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ke3n8u\\Debug\\cmTC_e25da.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-inaxq9\\Debug\\cmTC_a2ba7.exe" /INCREMENTAL /ILK:"cmTC_a2ba7.dir\\Debug\\cmTC_a2ba7.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-inaxq9/Debug/cmTC_a2ba7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-inaxq9/Debug/cmTC_a2ba7.lib" /MACHINE:X64  /machine:x64 cmTC_a2ba7.dir\\Debug\\src.obj
+          cmTC_a2ba7.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-inaxq9\\Debug\\cmTC_a2ba7.exe
         FinalizeBuildStatus:
-          Suppression du fichier "cmTC_e25da.dir\\Debug\\cmTC_e25da.tlog\\unsuccessfulbuild".
-          Mise ├á jour de l'horodatage "cmTC_e25da.dir\\Debug\\cmTC_e25da.tlog\\cmTC_e25da.lastbuildstate".
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ke3n8u\\cmTC_e25da.vcxproj" termin├®e (cibles par d├®faut).
+          Suppression du fichier "cmTC_a2ba7.dir\\Debug\\cmTC_a2ba7.tlog\\unsuccessfulbuild".
+          Mise ├á jour de l'horodatage "cmTC_a2ba7.dir\\Debug\\cmTC_a2ba7.tlog\\cmTC_a2ba7.lastbuildstate".
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-inaxq9\\cmTC_a2ba7.vcxproj" termin├®e (cibles par d├®faut).
         
         La g├®n├®ration a r├®ussi.
             0 Avertissement(s)
             0 Erreur(s)
         
-        Temps ├®coul├® 00:00:00.56
+        Temps ├®coul├® 00:00:00.52
         
       exitCode: 0
   -
@@ -637,8 +633,8 @@ events:
     checks:
       - "Performing Test COMPILER_SUPPORTS_SSE4_2"
     directories:
-      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-gnc33i"
-      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-gnc33i"
+      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-qugckg"
+      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-qugckg"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od "
@@ -648,40 +644,40 @@ events:
       variable: "COMPILER_SUPPORTS_SSE4_2"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-gnc33i'
+        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-qugckg'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_3c588.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_def44.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 8:12:22 PM.
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:10 AM.
         
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gnc33i\\cmTC_3c588.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qugckg\\cmTC_def44.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
         PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_3c588.dir\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_def44.dir\\Debug\\".
           La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
-          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gnc33i\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_3c588.dir\\Debug\\cmTC_3c588.tlog\\".
+          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qugckg\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_def44.dir\\Debug\\cmTC_def44.tlog\\".
         InitializeBuildStatus:
-          Cr├®ation de "cmTC_3c588.dir\\Debug\\cmTC_3c588.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_3c588.dir\\Debug\\cmTC_3c588.tlog\\unsuccessfulbuild".
+          Cr├®ation de "cmTC_def44.dir\\Debug\\cmTC_def44.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_def44.dir\\Debug\\cmTC_def44.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE4_2 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3c588.dir\\Debug\\\\" /Fd"cmTC_3c588.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gnc33i\\src.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE4_2 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_def44.dir\\Debug\\\\" /Fd"cmTC_def44.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qugckg\\src.c"
           Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
           Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE4_2 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3c588.dir\\Debug\\\\" /Fd"cmTC_3c588.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gnc33i\\src.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE4_2 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_def44.dir\\Debug\\\\" /Fd"cmTC_def44.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qugckg\\src.c"
           src.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gnc33i\\Debug\\cmTC_3c588.exe" /INCREMENTAL /ILK:"cmTC_3c588.dir\\Debug\\cmTC_3c588.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-gnc33i/Debug/cmTC_3c588.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-gnc33i/Debug/cmTC_3c588.lib" /MACHINE:X64  /machine:x64 cmTC_3c588.dir\\Debug\\src.obj
-          cmTC_3c588.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gnc33i\\Debug\\cmTC_3c588.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qugckg\\Debug\\cmTC_def44.exe" /INCREMENTAL /ILK:"cmTC_def44.dir\\Debug\\cmTC_def44.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-qugckg/Debug/cmTC_def44.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-qugckg/Debug/cmTC_def44.lib" /MACHINE:X64  /machine:x64 cmTC_def44.dir\\Debug\\src.obj
+          cmTC_def44.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qugckg\\Debug\\cmTC_def44.exe
         FinalizeBuildStatus:
-          Suppression du fichier "cmTC_3c588.dir\\Debug\\cmTC_3c588.tlog\\unsuccessfulbuild".
-          Mise ├á jour de l'horodatage "cmTC_3c588.dir\\Debug\\cmTC_3c588.tlog\\cmTC_3c588.lastbuildstate".
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gnc33i\\cmTC_3c588.vcxproj" termin├®e (cibles par d├®faut).
+          Suppression du fichier "cmTC_def44.dir\\Debug\\cmTC_def44.tlog\\unsuccessfulbuild".
+          Mise ├á jour de l'horodatage "cmTC_def44.dir\\Debug\\cmTC_def44.tlog\\cmTC_def44.lastbuildstate".
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qugckg\\cmTC_def44.vcxproj" termin├®e (cibles par d├®faut).
         
         La g├®n├®ration a r├®ussi.
             0 Avertissement(s)
             0 Erreur(s)
         
-        Temps ├®coul├® 00:00:00.56
+        Temps ├®coul├® 00:00:00.52
         
       exitCode: 0
   -
@@ -693,8 +689,8 @@ events:
     checks:
       - "Performing Test COMPILER_SUPPORTS_AVX"
     directories:
-      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-ivpwxg"
-      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-ivpwxg"
+      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-fid0ac"
+      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-fid0ac"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od "
@@ -704,40 +700,40 @@ events:
       variable: "COMPILER_SUPPORTS_AVX"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-ivpwxg'
+        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-fid0ac'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_2bf41.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_2c40b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 8:12:23 PM.
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:11 AM.
         
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ivpwxg\\cmTC_2bf41.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fid0ac\\cmTC_2c40b.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
         PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_2bf41.dir\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_2c40b.dir\\Debug\\".
           La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
-          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ivpwxg\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_2bf41.dir\\Debug\\cmTC_2bf41.tlog\\".
+          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fid0ac\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_2c40b.dir\\Debug\\cmTC_2c40b.tlog\\".
         InitializeBuildStatus:
-          Cr├®ation de "cmTC_2bf41.dir\\Debug\\cmTC_2bf41.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_2bf41.dir\\Debug\\cmTC_2bf41.tlog\\unsuccessfulbuild".
+          Cr├®ation de "cmTC_2c40b.dir\\Debug\\cmTC_2c40b.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_2c40b.dir\\Debug\\cmTC_2c40b.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2bf41.dir\\Debug\\\\" /Fd"cmTC_2bf41.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ivpwxg\\src.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2c40b.dir\\Debug\\\\" /Fd"cmTC_2c40b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fid0ac\\src.c"
           Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
           Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2bf41.dir\\Debug\\\\" /Fd"cmTC_2bf41.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ivpwxg\\src.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2c40b.dir\\Debug\\\\" /Fd"cmTC_2c40b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fid0ac\\src.c"
           src.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ivpwxg\\Debug\\cmTC_2bf41.exe" /INCREMENTAL /ILK:"cmTC_2bf41.dir\\Debug\\cmTC_2bf41.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-ivpwxg/Debug/cmTC_2bf41.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-ivpwxg/Debug/cmTC_2bf41.lib" /MACHINE:X64  /machine:x64 cmTC_2bf41.dir\\Debug\\src.obj
-          cmTC_2bf41.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ivpwxg\\Debug\\cmTC_2bf41.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fid0ac\\Debug\\cmTC_2c40b.exe" /INCREMENTAL /ILK:"cmTC_2c40b.dir\\Debug\\cmTC_2c40b.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-fid0ac/Debug/cmTC_2c40b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-fid0ac/Debug/cmTC_2c40b.lib" /MACHINE:X64  /machine:x64 cmTC_2c40b.dir\\Debug\\src.obj
+          cmTC_2c40b.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fid0ac\\Debug\\cmTC_2c40b.exe
         FinalizeBuildStatus:
-          Suppression du fichier "cmTC_2bf41.dir\\Debug\\cmTC_2bf41.tlog\\unsuccessfulbuild".
-          Mise ├á jour de l'horodatage "cmTC_2bf41.dir\\Debug\\cmTC_2bf41.tlog\\cmTC_2bf41.lastbuildstate".
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ivpwxg\\cmTC_2bf41.vcxproj" termin├®e (cibles par d├®faut).
+          Suppression du fichier "cmTC_2c40b.dir\\Debug\\cmTC_2c40b.tlog\\unsuccessfulbuild".
+          Mise ├á jour de l'horodatage "cmTC_2c40b.dir\\Debug\\cmTC_2c40b.tlog\\cmTC_2c40b.lastbuildstate".
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fid0ac\\cmTC_2c40b.vcxproj" termin├®e (cibles par d├®faut).
         
         La g├®n├®ration a r├®ussi.
             0 Avertissement(s)
             0 Erreur(s)
         
-        Temps ├®coul├® 00:00:00.58
+        Temps ├®coul├® 00:00:00.54
         
       exitCode: 0
   -
@@ -749,8 +745,8 @@ events:
     checks:
       - "Performing Test COMPILER_SUPPORTS_AVX2"
     directories:
-      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-kxw0o8"
-      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-kxw0o8"
+      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-37qx5d"
+      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-37qx5d"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od "
@@ -760,40 +756,40 @@ events:
       variable: "COMPILER_SUPPORTS_AVX2"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-kxw0o8'
+        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-37qx5d'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_9796b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c044a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 8:12:24 PM.
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:11 AM.
         
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kxw0o8\\cmTC_9796b.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-37qx5d\\cmTC_c044a.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
         PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_9796b.dir\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_c044a.dir\\Debug\\".
           La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
-          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kxw0o8\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_9796b.dir\\Debug\\cmTC_9796b.tlog\\".
+          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-37qx5d\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_c044a.dir\\Debug\\cmTC_c044a.tlog\\".
         InitializeBuildStatus:
-          Cr├®ation de "cmTC_9796b.dir\\Debug\\cmTC_9796b.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_9796b.dir\\Debug\\cmTC_9796b.tlog\\unsuccessfulbuild".
+          Cr├®ation de "cmTC_c044a.dir\\Debug\\cmTC_c044a.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_c044a.dir\\Debug\\cmTC_c044a.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX2 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9796b.dir\\Debug\\\\" /Fd"cmTC_9796b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kxw0o8\\src.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX2 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c044a.dir\\Debug\\\\" /Fd"cmTC_c044a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-37qx5d\\src.c"
           Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
           Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX2 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9796b.dir\\Debug\\\\" /Fd"cmTC_9796b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kxw0o8\\src.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX2 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c044a.dir\\Debug\\\\" /Fd"cmTC_c044a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-37qx5d\\src.c"
           src.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kxw0o8\\Debug\\cmTC_9796b.exe" /INCREMENTAL /ILK:"cmTC_9796b.dir\\Debug\\cmTC_9796b.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-kxw0o8/Debug/cmTC_9796b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-kxw0o8/Debug/cmTC_9796b.lib" /MACHINE:X64  /machine:x64 cmTC_9796b.dir\\Debug\\src.obj
-          cmTC_9796b.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kxw0o8\\Debug\\cmTC_9796b.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-37qx5d\\Debug\\cmTC_c044a.exe" /INCREMENTAL /ILK:"cmTC_c044a.dir\\Debug\\cmTC_c044a.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-37qx5d/Debug/cmTC_c044a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-37qx5d/Debug/cmTC_c044a.lib" /MACHINE:X64  /machine:x64 cmTC_c044a.dir\\Debug\\src.obj
+          cmTC_c044a.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-37qx5d\\Debug\\cmTC_c044a.exe
         FinalizeBuildStatus:
-          Suppression du fichier "cmTC_9796b.dir\\Debug\\cmTC_9796b.tlog\\unsuccessfulbuild".
-          Mise ├á jour de l'horodatage "cmTC_9796b.dir\\Debug\\cmTC_9796b.tlog\\cmTC_9796b.lastbuildstate".
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kxw0o8\\cmTC_9796b.vcxproj" termin├®e (cibles par d├®faut).
+          Suppression du fichier "cmTC_c044a.dir\\Debug\\cmTC_c044a.tlog\\unsuccessfulbuild".
+          Mise ├á jour de l'horodatage "cmTC_c044a.dir\\Debug\\cmTC_c044a.tlog\\cmTC_c044a.lastbuildstate".
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-37qx5d\\cmTC_c044a.vcxproj" termin├®e (cibles par d├®faut).
         
         La g├®n├®ration a r├®ussi.
             0 Avertissement(s)
             0 Erreur(s)
         
-        Temps ├®coul├® 00:00:00.63
+        Temps ├®coul├® 00:00:00.54
         
       exitCode: 0
   -
@@ -805,8 +801,8 @@ events:
     checks:
       - "Performing Test COMPILER_SUPPORTS_AVX512F"
     directories:
-      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-8wjnhl"
-      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-8wjnhl"
+      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-pc4689"
+      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-pc4689"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od "
@@ -816,40 +812,40 @@ events:
       variable: "COMPILER_SUPPORTS_AVX512F"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-8wjnhl'
+        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-pc4689'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_7120f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_dc14f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 8:12:25 PM.
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:12 AM.
         
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8wjnhl\\cmTC_7120f.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pc4689\\cmTC_dc14f.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
         PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_7120f.dir\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_dc14f.dir\\Debug\\".
           La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
-          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8wjnhl\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_7120f.dir\\Debug\\cmTC_7120f.tlog\\".
+          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pc4689\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_dc14f.dir\\Debug\\cmTC_dc14f.tlog\\".
         InitializeBuildStatus:
-          Cr├®ation de "cmTC_7120f.dir\\Debug\\cmTC_7120f.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_7120f.dir\\Debug\\cmTC_7120f.tlog\\unsuccessfulbuild".
+          Cr├®ation de "cmTC_dc14f.dir\\Debug\\cmTC_dc14f.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_dc14f.dir\\Debug\\cmTC_dc14f.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX512F /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7120f.dir\\Debug\\\\" /Fd"cmTC_7120f.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8wjnhl\\src.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX512F /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_dc14f.dir\\Debug\\\\" /Fd"cmTC_dc14f.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pc4689\\src.c"
           Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
           Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX512F /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7120f.dir\\Debug\\\\" /Fd"cmTC_7120f.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8wjnhl\\src.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX512F /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_dc14f.dir\\Debug\\\\" /Fd"cmTC_dc14f.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pc4689\\src.c"
           src.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8wjnhl\\Debug\\cmTC_7120f.exe" /INCREMENTAL /ILK:"cmTC_7120f.dir\\Debug\\cmTC_7120f.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-8wjnhl/Debug/cmTC_7120f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-8wjnhl/Debug/cmTC_7120f.lib" /MACHINE:X64  /machine:x64 cmTC_7120f.dir\\Debug\\src.obj
-          cmTC_7120f.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8wjnhl\\Debug\\cmTC_7120f.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pc4689\\Debug\\cmTC_dc14f.exe" /INCREMENTAL /ILK:"cmTC_dc14f.dir\\Debug\\cmTC_dc14f.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-pc4689/Debug/cmTC_dc14f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-pc4689/Debug/cmTC_dc14f.lib" /MACHINE:X64  /machine:x64 cmTC_dc14f.dir\\Debug\\src.obj
+          cmTC_dc14f.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pc4689\\Debug\\cmTC_dc14f.exe
         FinalizeBuildStatus:
-          Suppression du fichier "cmTC_7120f.dir\\Debug\\cmTC_7120f.tlog\\unsuccessfulbuild".
-          Mise ├á jour de l'horodatage "cmTC_7120f.dir\\Debug\\cmTC_7120f.tlog\\cmTC_7120f.lastbuildstate".
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8wjnhl\\cmTC_7120f.vcxproj" termin├®e (cibles par d├®faut).
+          Suppression du fichier "cmTC_dc14f.dir\\Debug\\cmTC_dc14f.tlog\\unsuccessfulbuild".
+          Mise ├á jour de l'horodatage "cmTC_dc14f.dir\\Debug\\cmTC_dc14f.tlog\\cmTC_dc14f.lastbuildstate".
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pc4689\\cmTC_dc14f.vcxproj" termin├®e (cibles par d├®faut).
         
         La g├®n├®ration a r├®ussi.
             0 Avertissement(s)
             0 Erreur(s)
         
-        Temps ├®coul├® 00:00:00.59
+        Temps ├®coul├® 00:00:00.55
         
       exitCode: 0
   -
@@ -860,8 +856,8 @@ events:
     checks:
       - "Looking for malloc.h"
     directories:
-      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-osg20a"
-      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-osg20a"
+      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-er5h1u"
+      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-er5h1u"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od "
@@ -871,34 +867,90 @@ events:
       variable: "HAVE_MALLOC_H"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-osg20a'
+        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-er5h1u'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_20aa3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_7e44c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 8:12:26 PM.
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:13 AM.
         
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-osg20a\\cmTC_20aa3.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-er5h1u\\cmTC_7e44c.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
         PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_20aa3.dir\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_7e44c.dir\\Debug\\".
           La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
-          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-osg20a\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_20aa3.dir\\Debug\\cmTC_20aa3.tlog\\".
+          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-er5h1u\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_7e44c.dir\\Debug\\cmTC_7e44c.tlog\\".
         InitializeBuildStatus:
-          Cr├®ation de "cmTC_20aa3.dir\\Debug\\cmTC_20aa3.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_20aa3.dir\\Debug\\cmTC_20aa3.tlog\\unsuccessfulbuild".
+          Cr├®ation de "cmTC_7e44c.dir\\Debug\\cmTC_7e44c.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_7e44c.dir\\Debug\\cmTC_7e44c.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_20aa3.dir\\Debug\\\\" /Fd"cmTC_20aa3.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-osg20a\\CheckIncludeFile.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7e44c.dir\\Debug\\\\" /Fd"cmTC_7e44c.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-er5h1u\\CheckIncludeFile.c"
           Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
           Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_20aa3.dir\\Debug\\\\" /Fd"cmTC_20aa3.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-osg20a\\CheckIncludeFile.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7e44c.dir\\Debug\\\\" /Fd"cmTC_7e44c.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-er5h1u\\CheckIncludeFile.c"
           CheckIncludeFile.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-osg20a\\Debug\\cmTC_20aa3.exe" /INCREMENTAL /ILK:"cmTC_20aa3.dir\\Debug\\cmTC_20aa3.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-osg20a/Debug/cmTC_20aa3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-osg20a/Debug/cmTC_20aa3.lib" /MACHINE:X64  /machine:x64 cmTC_20aa3.dir\\Debug\\CheckIncludeFile.obj
-          cmTC_20aa3.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-osg20a\\Debug\\cmTC_20aa3.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-er5h1u\\Debug\\cmTC_7e44c.exe" /INCREMENTAL /ILK:"cmTC_7e44c.dir\\Debug\\cmTC_7e44c.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-er5h1u/Debug/cmTC_7e44c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-er5h1u/Debug/cmTC_7e44c.lib" /MACHINE:X64  /machine:x64 cmTC_7e44c.dir\\Debug\\CheckIncludeFile.obj
+          cmTC_7e44c.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-er5h1u\\Debug\\cmTC_7e44c.exe
         FinalizeBuildStatus:
-          Suppression du fichier "cmTC_20aa3.dir\\Debug\\cmTC_20aa3.tlog\\unsuccessfulbuild".
-          Mise ├á jour de l'horodatage "cmTC_20aa3.dir\\Debug\\cmTC_20aa3.tlog\\cmTC_20aa3.lastbuildstate".
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-osg20a\\cmTC_20aa3.vcxproj" termin├®e (cibles par d├®faut).
+          Suppression du fichier "cmTC_7e44c.dir\\Debug\\cmTC_7e44c.tlog\\unsuccessfulbuild".
+          Mise ├á jour de l'horodatage "cmTC_7e44c.dir\\Debug\\cmTC_7e44c.tlog\\cmTC_7e44c.lastbuildstate".
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-er5h1u\\cmTC_7e44c.vcxproj" termin├®e (cibles par d├®faut).
+        
+        La g├®n├®ration a r├®ussi.
+            0 Avertissement(s)
+            0 Erreur(s)
+        
+        Temps ├®coul├® 00:00:00.51
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CheckSymbolExists.cmake:163 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CheckSymbolExists.cmake:68 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "vendor/CMakeLists.txt:1047 (check_symbol_exists)"
+    checks:
+      - "Looking for _copysign"
+    directories:
+      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-yyd8nt"
+      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-yyd8nt"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/vendor/cmake"
+    buildResult:
+      variable: "LIBC_HAS__COPYSIGN"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-yyd8nt'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_7ad0c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:14 AM.
+        
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yyd8nt\\cmTC_7ad0c.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        PrepareForBuild:
+          Cr├®ation du r├®pertoire "cmTC_7ad0c.dir\\Debug\\".
+          La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
+          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yyd8nt\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_7ad0c.dir\\Debug\\cmTC_7ad0c.tlog\\".
+        InitializeBuildStatus:
+          Cr├®ation de "cmTC_7ad0c.dir\\Debug\\cmTC_7ad0c.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_7ad0c.dir\\Debug\\cmTC_7ad0c.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7ad0c.dir\\Debug\\\\" /Fd"cmTC_7ad0c.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yyd8nt\\CheckSymbolExists.c"
+          Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
+          Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7ad0c.dir\\Debug\\\\" /Fd"cmTC_7ad0c.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yyd8nt\\CheckSymbolExists.c"
+          CheckSymbolExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yyd8nt\\Debug\\cmTC_7ad0c.exe" /INCREMENTAL /ILK:"cmTC_7ad0c.dir\\Debug\\cmTC_7ad0c.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-yyd8nt/Debug/cmTC_7ad0c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-yyd8nt/Debug/cmTC_7ad0c.lib" /MACHINE:X64  /machine:x64 cmTC_7ad0c.dir\\Debug\\CheckSymbolExists.obj
+          cmTC_7ad0c.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yyd8nt\\Debug\\cmTC_7ad0c.exe
+        FinalizeBuildStatus:
+          Suppression du fichier "cmTC_7ad0c.dir\\Debug\\cmTC_7ad0c.tlog\\unsuccessfulbuild".
+          Mise ├á jour de l'horodatage "cmTC_7ad0c.dir\\Debug\\cmTC_7ad0c.tlog\\cmTC_7ad0c.lastbuildstate".
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yyd8nt\\cmTC_7ad0c.vcxproj" termin├®e (cibles par d├®faut).
         
         La g├®n├®ration a r├®ussi.
             0 Avertissement(s)
@@ -914,66 +966,10 @@ events:
       - "C:/Program Files/CMake/share/cmake-3.31/Modules/CheckSymbolExists.cmake:68 (__CHECK_SYMBOL_EXISTS_IMPL)"
       - "vendor/CMakeLists.txt:1047 (check_symbol_exists)"
     checks:
-      - "Looking for _copysign"
-    directories:
-      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-fdwwjt"
-      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-fdwwjt"
-    cmakeVariables:
-      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
-      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od "
-      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/vendor/cmake"
-    buildResult:
-      variable: "LIBC_HAS__COPYSIGN"
-      cached: true
-      stdout: |
-        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-fdwwjt'
-        
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_fad03.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
-        Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 8:12:26 PM.
-        
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fdwwjt\\cmTC_fad03.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
-        PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_fad03.dir\\Debug\\".
-          La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
-          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fdwwjt\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_fad03.dir\\Debug\\cmTC_fad03.tlog\\".
-        InitializeBuildStatus:
-          Cr├®ation de "cmTC_fad03.dir\\Debug\\cmTC_fad03.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_fad03.dir\\Debug\\cmTC_fad03.tlog\\unsuccessfulbuild".
-        ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fad03.dir\\Debug\\\\" /Fd"cmTC_fad03.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fdwwjt\\CheckSymbolExists.c"
-          Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
-          Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fad03.dir\\Debug\\\\" /Fd"cmTC_fad03.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fdwwjt\\CheckSymbolExists.c"
-          CheckSymbolExists.c
-        Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fdwwjt\\Debug\\cmTC_fad03.exe" /INCREMENTAL /ILK:"cmTC_fad03.dir\\Debug\\cmTC_fad03.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-fdwwjt/Debug/cmTC_fad03.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-fdwwjt/Debug/cmTC_fad03.lib" /MACHINE:X64  /machine:x64 cmTC_fad03.dir\\Debug\\CheckSymbolExists.obj
-          cmTC_fad03.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fdwwjt\\Debug\\cmTC_fad03.exe
-        FinalizeBuildStatus:
-          Suppression du fichier "cmTC_fad03.dir\\Debug\\cmTC_fad03.tlog\\unsuccessfulbuild".
-          Mise ├á jour de l'horodatage "cmTC_fad03.dir\\Debug\\cmTC_fad03.tlog\\cmTC_fad03.lastbuildstate".
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fdwwjt\\cmTC_fad03.vcxproj" termin├®e (cibles par d├®faut).
-        
-        La g├®n├®ration a r├®ussi.
-            0 Avertissement(s)
-            0 Erreur(s)
-        
-        Temps ├®coul├® 00:00:00.57
-        
-      exitCode: 0
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CheckSymbolExists.cmake:163 (try_compile)"
-      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CheckSymbolExists.cmake:68 (__CHECK_SYMBOL_EXISTS_IMPL)"
-      - "vendor/CMakeLists.txt:1047 (check_symbol_exists)"
-    checks:
       - "Looking for _fseeki64"
     directories:
-      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-lx4hs3"
-      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-lx4hs3"
+      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-exnbyf"
+      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-exnbyf"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od "
@@ -983,40 +979,40 @@ events:
       variable: "LIBC_HAS__FSEEKI64"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-lx4hs3'
+        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-exnbyf'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_a17ea.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_137f7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 8:12:27 PM.
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:14 AM.
         
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lx4hs3\\cmTC_a17ea.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-exnbyf\\cmTC_137f7.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
         PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_a17ea.dir\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_137f7.dir\\Debug\\".
           La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
-          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lx4hs3\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_a17ea.dir\\Debug\\cmTC_a17ea.tlog\\".
+          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-exnbyf\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_137f7.dir\\Debug\\cmTC_137f7.tlog\\".
         InitializeBuildStatus:
-          Cr├®ation de "cmTC_a17ea.dir\\Debug\\cmTC_a17ea.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_a17ea.dir\\Debug\\cmTC_a17ea.tlog\\unsuccessfulbuild".
+          Cr├®ation de "cmTC_137f7.dir\\Debug\\cmTC_137f7.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_137f7.dir\\Debug\\cmTC_137f7.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a17ea.dir\\Debug\\\\" /Fd"cmTC_a17ea.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lx4hs3\\CheckSymbolExists.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_137f7.dir\\Debug\\\\" /Fd"cmTC_137f7.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-exnbyf\\CheckSymbolExists.c"
           Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
           Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a17ea.dir\\Debug\\\\" /Fd"cmTC_a17ea.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lx4hs3\\CheckSymbolExists.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_137f7.dir\\Debug\\\\" /Fd"cmTC_137f7.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-exnbyf\\CheckSymbolExists.c"
           CheckSymbolExists.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lx4hs3\\Debug\\cmTC_a17ea.exe" /INCREMENTAL /ILK:"cmTC_a17ea.dir\\Debug\\cmTC_a17ea.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-lx4hs3/Debug/cmTC_a17ea.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-lx4hs3/Debug/cmTC_a17ea.lib" /MACHINE:X64  /machine:x64 cmTC_a17ea.dir\\Debug\\CheckSymbolExists.obj
-          cmTC_a17ea.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lx4hs3\\Debug\\cmTC_a17ea.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-exnbyf\\Debug\\cmTC_137f7.exe" /INCREMENTAL /ILK:"cmTC_137f7.dir\\Debug\\cmTC_137f7.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-exnbyf/Debug/cmTC_137f7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-exnbyf/Debug/cmTC_137f7.lib" /MACHINE:X64  /machine:x64 cmTC_137f7.dir\\Debug\\CheckSymbolExists.obj
+          cmTC_137f7.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-exnbyf\\Debug\\cmTC_137f7.exe
         FinalizeBuildStatus:
-          Suppression du fichier "cmTC_a17ea.dir\\Debug\\cmTC_a17ea.tlog\\unsuccessfulbuild".
-          Mise ├á jour de l'horodatage "cmTC_a17ea.dir\\Debug\\cmTC_a17ea.tlog\\cmTC_a17ea.lastbuildstate".
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lx4hs3\\cmTC_a17ea.vcxproj" termin├®e (cibles par d├®faut).
+          Suppression du fichier "cmTC_137f7.dir\\Debug\\cmTC_137f7.tlog\\unsuccessfulbuild".
+          Mise ├á jour de l'horodatage "cmTC_137f7.dir\\Debug\\cmTC_137f7.tlog\\cmTC_137f7.lastbuildstate".
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-exnbyf\\cmTC_137f7.vcxproj" termin├®e (cibles par d├®faut).
         
         La g├®n├®ration a r├®ussi.
             0 Avertissement(s)
             0 Erreur(s)
         
-        Temps ├®coul├® 00:00:00.61
+        Temps ├®coul├® 00:00:00.56
         
       exitCode: 0
   -
@@ -1028,8 +1024,8 @@ events:
     checks:
       - "Performing Test HAVE_GAMEINPUT_H"
     directories:
-      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zr3w02"
-      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zr3w02"
+      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-bjqtw4"
+      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-bjqtw4"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od "
@@ -1039,40 +1035,40 @@ events:
       variable: "HAVE_GAMEINPUT_H"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-zr3w02'
+        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-bjqtw4'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_a4190.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_b27a9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 8:12:28 PM.
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:15 AM.
         
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr3w02\\cmTC_a4190.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bjqtw4\\cmTC_b27a9.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
         PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_a4190.dir\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_b27a9.dir\\Debug\\".
           La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
-          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr3w02\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_a4190.dir\\Debug\\cmTC_a4190.tlog\\".
+          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bjqtw4\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_b27a9.dir\\Debug\\cmTC_b27a9.tlog\\".
         InitializeBuildStatus:
-          Cr├®ation de "cmTC_a4190.dir\\Debug\\cmTC_a4190.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_a4190.dir\\Debug\\cmTC_a4190.tlog\\unsuccessfulbuild".
+          Cr├®ation de "cmTC_b27a9.dir\\Debug\\cmTC_b27a9.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_b27a9.dir\\Debug\\cmTC_b27a9.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D HAVE_GAMEINPUT_H /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a4190.dir\\Debug\\\\" /Fd"cmTC_a4190.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr3w02\\src.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D HAVE_GAMEINPUT_H /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b27a9.dir\\Debug\\\\" /Fd"cmTC_b27a9.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bjqtw4\\src.c"
           Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
           Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D HAVE_GAMEINPUT_H /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a4190.dir\\Debug\\\\" /Fd"cmTC_a4190.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr3w02\\src.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D HAVE_GAMEINPUT_H /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b27a9.dir\\Debug\\\\" /Fd"cmTC_b27a9.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bjqtw4\\src.c"
           src.c
-        C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr3w02\\src.c(4,14): error C1083: Impossible d'ouvrir le fichier include┬á: 'gameinput.h'┬á: No such file or directory [C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr3w02\\cmTC_a4190.vcxproj]
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr3w02\\cmTC_a4190.vcxproj" termin├®e (cibles par d├®faut) -- ├ëCHEC.
+        C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bjqtw4\\src.c(4,14): error C1083: Impossible d'ouvrir le fichier include┬á: 'gameinput.h'┬á: No such file or directory [C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bjqtw4\\cmTC_b27a9.vcxproj]
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bjqtw4\\cmTC_b27a9.vcxproj" termin├®e (cibles par d├®faut) -- ├ëCHEC.
         
         ├ëCHEC de la build.
         
-        "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr3w02\\cmTC_a4190.vcxproj" (cible par d├®faut) (1) ->
+        "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bjqtw4\\cmTC_b27a9.vcxproj" (cible par d├®faut) (1) ->
         (ClCompile cible) -> 
-          C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr3w02\\src.c(4,14): error C1083: Impossible d'ouvrir le fichier include┬á: 'gameinput.h'┬á: No such file or directory [C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr3w02\\cmTC_a4190.vcxproj]
+          C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bjqtw4\\src.c(4,14): error C1083: Impossible d'ouvrir le fichier include┬á: 'gameinput.h'┬á: No such file or directory [C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bjqtw4\\cmTC_b27a9.vcxproj]
         
             0 Avertissement(s)
             1 Erreur(s)
         
-        Temps ├®coul├® 00:00:00.38
+        Temps ├®coul├® 00:00:00.34
         
       exitCode: 1
   -
@@ -1083,8 +1079,8 @@ events:
     checks:
       - "Looking for dxgi1_6.h"
     directories:
-      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-twcu52"
-      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-twcu52"
+      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-9ypjk5"
+      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-9ypjk5"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od "
@@ -1094,40 +1090,40 @@ events:
       variable: "HAVE_DXGI1_6_H"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-twcu52'
+        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-9ypjk5'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_3fda7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_6098a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 8:12:29 PM.
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:16 AM.
         
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-twcu52\\cmTC_3fda7.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9ypjk5\\cmTC_6098a.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
         PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_3fda7.dir\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_6098a.dir\\Debug\\".
           La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
-          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-twcu52\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_3fda7.dir\\Debug\\cmTC_3fda7.tlog\\".
+          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9ypjk5\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_6098a.dir\\Debug\\cmTC_6098a.tlog\\".
         InitializeBuildStatus:
-          Cr├®ation de "cmTC_3fda7.dir\\Debug\\cmTC_3fda7.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_3fda7.dir\\Debug\\cmTC_3fda7.tlog\\unsuccessfulbuild".
+          Cr├®ation de "cmTC_6098a.dir\\Debug\\cmTC_6098a.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_6098a.dir\\Debug\\cmTC_6098a.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3fda7.dir\\Debug\\\\" /Fd"cmTC_3fda7.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-twcu52\\CheckIncludeFile.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6098a.dir\\Debug\\\\" /Fd"cmTC_6098a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9ypjk5\\CheckIncludeFile.c"
           Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
           Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3fda7.dir\\Debug\\\\" /Fd"cmTC_3fda7.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-twcu52\\CheckIncludeFile.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6098a.dir\\Debug\\\\" /Fd"cmTC_6098a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9ypjk5\\CheckIncludeFile.c"
           CheckIncludeFile.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-twcu52\\Debug\\cmTC_3fda7.exe" /INCREMENTAL /ILK:"cmTC_3fda7.dir\\Debug\\cmTC_3fda7.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-twcu52/Debug/cmTC_3fda7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-twcu52/Debug/cmTC_3fda7.lib" /MACHINE:X64  /machine:x64 cmTC_3fda7.dir\\Debug\\CheckIncludeFile.obj
-          cmTC_3fda7.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-twcu52\\Debug\\cmTC_3fda7.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9ypjk5\\Debug\\cmTC_6098a.exe" /INCREMENTAL /ILK:"cmTC_6098a.dir\\Debug\\cmTC_6098a.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-9ypjk5/Debug/cmTC_6098a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-9ypjk5/Debug/cmTC_6098a.lib" /MACHINE:X64  /machine:x64 cmTC_6098a.dir\\Debug\\CheckIncludeFile.obj
+          cmTC_6098a.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9ypjk5\\Debug\\cmTC_6098a.exe
         FinalizeBuildStatus:
-          Suppression du fichier "cmTC_3fda7.dir\\Debug\\cmTC_3fda7.tlog\\unsuccessfulbuild".
-          Mise ├á jour de l'horodatage "cmTC_3fda7.dir\\Debug\\cmTC_3fda7.tlog\\cmTC_3fda7.lastbuildstate".
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-twcu52\\cmTC_3fda7.vcxproj" termin├®e (cibles par d├®faut).
+          Suppression du fichier "cmTC_6098a.dir\\Debug\\cmTC_6098a.tlog\\unsuccessfulbuild".
+          Mise ├á jour de l'horodatage "cmTC_6098a.dir\\Debug\\cmTC_6098a.tlog\\cmTC_6098a.lastbuildstate".
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9ypjk5\\cmTC_6098a.vcxproj" termin├®e (cibles par d├®faut).
         
         La g├®n├®ration a r├®ussi.
             0 Avertissement(s)
             0 Erreur(s)
         
-        Temps ├®coul├® 00:00:00.80
+        Temps ├®coul├® 00:00:00.77
         
       exitCode: 0
   -
@@ -1139,8 +1135,8 @@ events:
     checks:
       - "Performing Test HAVE_MFAPI_H"
     directories:
-      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-l2mjsv"
-      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-l2mjsv"
+      source: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-x102t5"
+      binary: "C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-x102t5"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od "
@@ -1150,40 +1146,40 @@ events:
       variable: "HAVE_MFAPI_H"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-l2mjsv'
+        Change Dir: 'C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-x102t5'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_9d377.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_f5d0f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Version MSBuild 17.13.9+e0f243f1e pour .NET Framework
-        La g├®n├®ration a d├®marr├® 3/3/2025 8:12:30 PM.
+        La g├®n├®ration a d├®marr├® 3/4/2025 6:51:17 AM.
         
-        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l2mjsv\\cmTC_9d377.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
+        Projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x102t5\\cmTC_f5d0f.vcxproj" sur le n┼ôud 1 (cibles par d├®faut).
         PrepareForBuild:
-          Cr├®ation du r├®pertoire "cmTC_9d377.dir\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_f5d0f.dir\\Debug\\".
           La sortie structur├®e est activ├®e. La mise en forme du compilateur diagnostics refl├¿te la hi├®rarchie des erreurs. Pour plus dÔÇÖinformations, consultez https://aka.ms/cpp/structured-output.
-          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l2mjsv\\Debug\\".
-          Cr├®ation du r├®pertoire "cmTC_9d377.dir\\Debug\\cmTC_9d377.tlog\\".
+          Cr├®ation du r├®pertoire "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x102t5\\Debug\\".
+          Cr├®ation du r├®pertoire "cmTC_f5d0f.dir\\Debug\\cmTC_f5d0f.tlog\\".
         InitializeBuildStatus:
-          Cr├®ation de "cmTC_9d377.dir\\Debug\\cmTC_9d377.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
-          Mise ├á jour de l'horodatage "cmTC_9d377.dir\\Debug\\cmTC_9d377.tlog\\unsuccessfulbuild".
+          Cr├®ation de "cmTC_f5d0f.dir\\Debug\\cmTC_f5d0f.tlog\\unsuccessfulbuild", car "AlwaysCreate" a ├®t├® sp├®cifi├®.
+          Mise ├á jour de l'horodatage "cmTC_f5d0f.dir\\Debug\\cmTC_f5d0f.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D HAVE_MFAPI_H /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9d377.dir\\Debug\\\\" /Fd"cmTC_9d377.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l2mjsv\\src.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D HAVE_MFAPI_H /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f5d0f.dir\\Debug\\\\" /Fd"cmTC_f5d0f.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x102t5\\src.c"
           Compilateur d'optimisation Microsoft (R) C/C++ version┬á19.43.34808 pour x64
           Copyright (C) Microsoft Corporation. Tous droits r├®serv├®s.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D HAVE_MFAPI_H /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9d377.dir\\Debug\\\\" /Fd"cmTC_9d377.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l2mjsv\\src.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D HAVE_MFAPI_H /D "CMAKE_INTDIR=\\"Debug\\"" /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f5d0f.dir\\Debug\\\\" /Fd"cmTC_f5d0f.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x102t5\\src.c"
           src.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l2mjsv\\Debug\\cmTC_9d377.exe" /INCREMENTAL /ILK:"cmTC_9d377.dir\\Debug\\cmTC_9d377.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-l2mjsv/Debug/cmTC_9d377.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-l2mjsv/Debug/cmTC_9d377.lib" /MACHINE:X64  /machine:x64 cmTC_9d377.dir\\Debug\\src.obj
-          cmTC_9d377.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l2mjsv\\Debug\\cmTC_9d377.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x102t5\\Debug\\cmTC_f5d0f.exe" /INCREMENTAL /ILK:"cmTC_f5d0f.dir\\Debug\\cmTC_f5d0f.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-x102t5/Debug/cmTC_f5d0f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/CMakeFiles/CMakeScratch/TryCompile-x102t5/Debug/cmTC_f5d0f.lib" /MACHINE:X64  /machine:x64 cmTC_f5d0f.dir\\Debug\\src.obj
+          cmTC_f5d0f.vcxproj -> C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x102t5\\Debug\\cmTC_f5d0f.exe
         FinalizeBuildStatus:
-          Suppression du fichier "cmTC_9d377.dir\\Debug\\cmTC_9d377.tlog\\unsuccessfulbuild".
-          Mise ├á jour de l'horodatage "cmTC_9d377.dir\\Debug\\cmTC_9d377.tlog\\cmTC_9d377.lastbuildstate".
-        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l2mjsv\\cmTC_9d377.vcxproj" termin├®e (cibles par d├®faut).
+          Suppression du fichier "cmTC_f5d0f.dir\\Debug\\cmTC_f5d0f.tlog\\unsuccessfulbuild".
+          Mise ├á jour de l'horodatage "cmTC_f5d0f.dir\\Debug\\cmTC_f5d0f.tlog\\cmTC_f5d0f.lastbuildstate".
+        G├®n├®ration du projet "C:\\Users\\thibo\\Desktop\\Prototype\\IA\\Simple_AI\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x102t5\\cmTC_f5d0f.vcxproj" termin├®e (cibles par d├®faut).
         
         La g├®n├®ration a r├®ussi.
             0 Avertissement(s)
             0 Erreur(s)
         
-        Temps ├®coul├® 00:00:00.81
+        Temps ├®coul├® 00:00:00.75
         
       exitCode: 0
 ...

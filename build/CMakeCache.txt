@@ -15,13 +15,13 @@
 ########################
 
 //Value Computed by CMake
-AI_BINARY_DIR:STATIC=C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build
+AI2_BINARY_DIR:STATIC=C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build
 
 //Value Computed by CMake
-AI_IS_TOP_LEVEL:STATIC=ON
+AI2_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-AI_SOURCE_DIR:STATIC=C:/Users/thibo/Desktop/Prototype/IA/Simple_AI
+AI2_SOURCE_DIR:STATIC=C:/Users/thibo/Desktop/Prototype/IA/Simple_AI
 
 //Path to a program.
 CMAKE_AR:FILEPATH=C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.43.34808/bin/Hostx64/x64/lib.exe
@@ -125,7 +125,7 @@ CMAKE_INSTALL_MANDIR:PATH=
 CMAKE_INSTALL_OLDINCLUDEDIR:PATH=/usr/include
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/AI
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/AI2
 
 //Run-time variable data (LOCALSTATEDIR/run)
 CMAKE_INSTALL_RUNSTATEDIR:PATH=
@@ -172,7 +172,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=AI
+CMAKE_PROJECT_NAME:STATIC=AI2
 
 //Value Computed by CMake
 CMAKE_PROJECT_VERSION:STATIC=3.3.0
@@ -285,13 +285,13 @@ PKG_CONFIG_ARGN:STRING=
 PKG_CONFIG_EXECUTABLE:FILEPATH=PKG_CONFIG_EXECUTABLE-NOTFOUND
 
 //Value Computed by CMake
-SDL3_BINARY_DIR:STATIC=C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor
+SDL3_BINARY_DIR:STATIC=C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/build/vendor/SDL
 
 //Value Computed by CMake
 SDL3_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
-SDL3_SOURCE_DIR:STATIC=C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/vendor
+SDL3_SOURCE_DIR:STATIC=C:/Users/thibo/Desktop/Prototype/IA/Simple_AI/vendor/SDL
 
 //Support the ALSA audio API
 SDL_ALSA:BOOL=OFF
@@ -684,7 +684,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MT
 CMAKE_MT-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=3
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=4
 //Platform information initialized
 CMAKE_PLATFORM_INFO_INITIALIZED:INTERNAL=1
 //noop for ranlib
@@ -1075,5 +1075,5 @@ SDL_CPU_CHECK_ALL:INTERNAL=TRUE
 //Have symbol _alloca
 _ALLOCA_IN_MALLOC_H:INTERNAL=
 //CMAKE_INSTALL_PREFIX during last run
-_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=C:/Program Files (x86)/AI
+_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=C:/Program Files (x86)/AI2
 

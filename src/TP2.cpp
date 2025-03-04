@@ -12,12 +12,108 @@
 
 using namespace std;
 
+#define WIDTH 800
+#define HEIGHT 600
+
+int** dataBoard;
+bool isPicked = false;
+int xPicked;
+int yPicked;
+
 void printDepart();
 configuration lireConfiguration();
 bool estNoir(configuration* config);
 void recursifNiveau(clock_t horloge, tree& arbre, bool noire, bool arbreMax, configuration conf, int& niveaux,bool& succes, long& countNodes);
+void drawBoard(SDL_Renderer* renderer);
+void drawCircle(int x, int y, int radius, SDL_Renderer*);
+void playTurn(int player);
+
 
 int main(void) {
+
+    SDL_Window *window;                    // Declare a pointer
+    SDL_Renderer *renderer;
+
+    dataBoard = new int*[10];
+    for(int i = 0; i < 10; i++) {
+
+        dataBoard[i] = new int[10];
+
+        for(int j = 0; j < 10; j++) {
+
+            dataBoard[i][j] = 0;
+        }
+    } 
+
+    bool done = false;
+
+    int playerTurn = 0;
+
+    SDL_Init(SDL_INIT_VIDEO);              // Initialize SDL3
+
+    // Create an application window with the following settings:
+    window = SDL_CreateWindow(
+        "An SDL3 window",                  // window title
+        500,                               // width, in pixels
+        500,                               // height, in pixels
+        SDL_WINDOW_OPENGL                  // flags - see below
+    );
+
+    // Check that the window was successfully created
+    if (window == NULL) {
+        // In the case that the window could not be made...
+        SDL_LogError(SDL_LOG_CATEGORY_ERROR, "Could not create window: %s\n", SDL_GetError());
+        return 1;
+    }
+
+    renderer = SDL_CreateRenderer(window, NULL);
+    if (renderer == NULL)
+    {
+        fprintf(stderr, "SDL_CreateRenderer Error: %s\n", SDL_GetError());
+        SDL_DestroyWindow(window);
+        SDL_Quit();
+        return EXIT_FAILURE;
+    }
+
+    while (!done) {
+        SDL_Event event;
+
+        while (SDL_PollEvent(&event)) {
+
+            if (event.type == SDL_EVENT_QUIT) {
+                done = true;
+            }
+
+            if (event.type == SDL_EVENT_MOUSE_BUTTON_DOWN) {
+                
+                xPicked = event.button.x;
+                yPicked = event.button.y;
+
+                isPicked = true;
+            }
+        }
+
+        SDL_SetRenderDrawColor(renderer, 0, 0, 0, 255);
+        SDL_RenderClear(renderer);
+        
+        // Do game logic, present a frame, etc.        
+
+        playTurn(playerTurn);        
+
+        drawBoard(renderer);
+
+
+        /////////////////////////////////////////
+        SDL_RenderPresent(renderer);
+    }
+
+    // Close and destroy the window
+    SDL_DestroyWindow(window);
+
+    // Clean up
+    SDL_Quit();
+
+    /*
 
     printDepart();
 
@@ -78,12 +174,12 @@ int main(void) {
         myfile << (int)(jjj-horloge)/1000 << endl;
         myfile << conf.getString();
         myfile << "_____________________" << endl;
-        myfile.close();*/
+        myfile.close();
         
         arbre.deleteTree();
 
         return 0;
-    }
+    }*/
 
     return 0;
 }
@@ -129,6 +225,71 @@ void recursifNiveau(clock_t horloge, tree& arbre, bool noire, bool arbreMax, con
                 niveau++;
             }
         }        
+    }
+}
+
+void drawCircle(int xx, int yy, int radius, SDL_Renderer* renderer) {
+        
+    for(int i = 0; i < 360; i ++) {
+
+        int xc = xx;
+        int yc = yy;
+
+        float r = i/360.0f*2*3.14159f;                                 
+        int x = xc + radius * cos(r);
+        int y = yc + radius * sin(r);
+        SDL_RenderPoint(renderer, x, y);
+	}
+}
+
+void playTurn(int player)
+{
+    if(player == 0) {
+
+
+        if(player == 1) player = 0;
+        else player = 1;
+    }
+    else {
+
+        if(isPicked) {
+
+            
+
+            isPicked = false;
+        }
+    }
+
+    
+}
+
+void drawBoard(SDL_Renderer *renderer)
+{
+    
+    for(int i = 0;  i < 10; i++) {
+
+        for(int j = 0; j < 10; j++) {
+
+            SDL_FRect rect;
+            rect.h = 50;
+            rect.w = 50;
+            rect.x = j * 50;
+            rect.y = i * 50;
+
+            SDL_SetRenderDrawColor(renderer, 0, 255, 255, 255);
+            SDL_RenderRect(renderer, &rect);
+
+            if(dataBoard[i][j] == 1) {
+
+                SDL_SetRenderDrawColor(renderer, 255, 0, 0, 255);
+                drawCircle(i*50+25, j*50+25, 15, renderer);
+            }
+            else if(dataBoard[i][j] == 2) {
+
+                SDL_SetRenderDrawColor(renderer, 0, 255, 0, 255);
+                drawCircle(i*50+25, j*50+25, 15, renderer);
+            }
+        }
     }
 }
 
